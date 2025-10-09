@@ -63,4 +63,4 @@ I'm also **interested in competitive programming**.
 
 ---
 
-> "Strive for progress, not perfection."  
+> "Keep me in your prayers."  
