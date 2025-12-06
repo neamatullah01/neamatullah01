@@ -50,12 +50,6 @@ I'm also **interested in competitive programming**.
 
 ---
 
-## 📊 GitHub Stats
-![Neamat Ullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=neamatullah01&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamat-ullah-938468290/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/01neamat?t=200_fOTDj77VFypsWEEshA&s=09)  
