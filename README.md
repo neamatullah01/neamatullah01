@@ -9,7 +9,7 @@ I'm also **interested in competitive programming**.
 ## 🌟 About Me
 - 💻 Full-Stack Developer (React, Node.js, Express, MongoDB)  
 - ⚡ Interested in Competitive Programming  
-- 🌱 Currently Learning: `Next.js`, `TypeScript`, `Go`, `PostgreSQL`, `MySQL`  
+- 🌱 Currently Learning: `Next.js`, `TypeScript`, `Go`, `PostgreSQL`,`Prisma`, `MySQL`  
 - 📚 Languages: `JavaScript`, `Python`, `C`, `C++`  
 - 🌐 Frontend: `HTML`, `CSS`, `React`, `Tailwind CSS`, `DaisyUI`  
 - 🛠️ Backend: `Node.js`, `Express.js`, `MongoDB`, `Mongoose`  
@@ -41,6 +41,7 @@ I'm also **interested in competitive programming**.
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
