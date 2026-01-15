@@ -52,7 +52,7 @@ I'm also **interested in competitive programming**.
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamat-ullah-938468290/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamatullah01/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/01neamat?t=200_fOTDj77VFypsWEEshA&s=09)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://personal-portfolio-jxsy.vercel.app/?fbclid=IwdGRjcANSw7djbGNrA1KvcGV4dG4DYWVtAjExAAEe5pHnjKcQR_QbMFjHORY9Y_DSljLnP2yedByPD75rkPYxMnjXgKu806KCQdc_aem_RnnaJu8kQPfxiFZ-AV9OBw)  
 
