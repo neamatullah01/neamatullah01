@@ -7,7 +7,7 @@ I'm also **interested in competitive programming**.
 ---
 
 ## 🌟 About Me
-- 💻 Full-Stack Developer (React, Node.js, Express, MongoDB)  
+- 💻 Full-Stack Developer (React,Nextjs, Node.js, Express, PostgreSQL, MongoDB)  
 - ⚡ Interested in Competitive Programming  
 - 🌱 Currently Learning: `Next.js`, `TypeScript`, `Go`, `PostgreSQL`,`Prisma`, `MySQL`  
 - 📚 Languages: `JavaScript`, `Python`, `C`, `C++`  
