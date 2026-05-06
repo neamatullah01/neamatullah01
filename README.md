@@ -6,19 +6,22 @@
   </a>
 </h1>
 
-<h5 align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/neamatullah01" title="LinkedIn Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> <code>LinkedIn</code>
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+    LinkedIn
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/01neamat" title="X Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"> <code>X</code>
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg">
+    X
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/neamat01" title="LeetCode Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"> <code>LeetCode</code>
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png">
+    LeetCode
   </a>
-</h5>
+</p>
 
 ---
 
