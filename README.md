@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Neamat Ullah
+# Hey 👋
+## I am Neamat Ullah
 
-I'm a **Computer Science and Engineering student** and a passionate **Full-Stack Web Developer**.  
-I love building projects, solving problems, and learning new technologies! 🚀  
-I'm also **interested in competitive programming**.  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
