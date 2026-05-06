@@ -47,17 +47,15 @@
 <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img alt="Antigravity" src="https://img.shields.io/badge/-Antigravity-4B8BBE?style=flat-square" />
 
 ---
-<br>
-
 ## 📊 GitHub Statistics & Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neamatullah01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Neamat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neamatullah01&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Neamat's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neamatullah01&theme=tokyonight&hide_border=true" alt="Neamat's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Top Languages" />
 </p>
 
 ## 📫 Connect with Me
