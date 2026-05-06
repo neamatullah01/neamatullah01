@@ -58,14 +58,22 @@
 
 ## 📊 GitHub Statistics & Analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neamatullah01&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Neamat's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neamatullah01&theme=tokyonight&hide_border=true" alt="Neamat's GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Top Languages" />
-</p>
+  <!-- GitHub Streak (most reliable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neamatullah01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <!-- Stats Card — using a self-deployable fallback URL with cache bust -->
+  <img src="https://github-readme-stats.vercel.app/api?username=neamatullah01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+
+</div>
 
 ---
 
