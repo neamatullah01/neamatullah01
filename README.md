@@ -60,6 +60,16 @@
 
 <div align="center">
 
+  <!-- ✅ Activity Graph — reliable alternative to stats card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neamatullah01&theme=tokyo-night&hide_border=true&area=true"
+       alt="Activity Graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
   <!-- ✅ Trophies — very reliable -->
   <img src="https://github-profile-trophy.vercel.app/?username=neamatullah01&theme=tokyonight&no-frame=true&row=1&column=6"
        alt="Trophies" />
@@ -73,16 +83,6 @@
   <!-- ✅ Streak — already working for you -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neamatullah01&theme=tokyonight&hide_border=true"
        alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- ✅ Activity Graph — reliable alternative to stats card -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neamatullah01&theme=tokyo-night&hide_border=true&area=true"
-       alt="Activity Graph" />
 
 </div>
 
