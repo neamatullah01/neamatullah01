@@ -47,6 +47,7 @@
 <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img alt="Antigravity" src="https://img.shields.io/badge/-Antigravity-4B8BBE?style=flat-square" />
 
 ---
+
 ## 📊 GitHub Statistics & Analysis
 
 <p align="center">
@@ -58,10 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neamatullah01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Top Languages" />
 </p>
 
+---
+
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamatullah01/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/01neamat?t=200_fOTDj77VFypsWEEshA&s=09)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://personal-portfolio-jxsy.vercel.app/?fbclid=IwdGRjcANSw7djbGNrA1KvcGV4dG4DYWVtAjExAAEe5pHnjKcQR_QbMFjHORY9Y_DSljLnP2yedByPD75rkPYxMnjXgKu806KCQdc_aem_RnnaJu8kQPfxiFZ-AV9OBw)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamatullah01)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/01neamat)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://neamatullah01.vercel.app)
 
 ---
 
