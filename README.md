@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="35"> About Me
 
 👋 Hi, I’m **Neamat Ullah**<br>
 🎓 I have completed my **B.Sc. in Computer Science and Engineering**.<br>
@@ -63,12 +63,11 @@
 
 ## 📫 Connect with Me
 
-
 <a href="https://www.linkedin.com/in/neamatullah01/">
-  <img src="https://img.shields.io/badge/-%20%20%20LinkedIn%20%20%20-8E44AD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-%20%20%20LinkedIn%20%20%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a><br>
 <a href="https://x.com/01neamat">
-  <img src="https://img.shields.io/badge/-%20X%20(Twitter)%20-8E44AD?style=flat-square&logo=x&logoColor=white" alt="X" />
+  <img src="https://img.shields.io/badge/-%20X%20(Twitter)%20-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
 </a><br>
 <a href="https://neamatullah01.vercel.app/">
   <img src="https://img.shields.io/badge/-%20%20%20Portfolio%20%20%20-8E44AD?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" />
