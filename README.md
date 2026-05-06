@@ -6,48 +6,19 @@
   </a>
 </h1>
 
-<svg width="100%" viewBox="0 0 680 70" role="img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title>Connect with me</title>
-  <desc>Social links: LinkedIn, X, LeetCode</desc>
-
-  <defs>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softglow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Dark background -->
-  <rect width="680" height="70" rx="10" fill="#0d1117"/>
-
-  <!-- Subtle edge glow -->
-  <rect width="680" height="70" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
-
-  <!-- LinkedIn pill -->
-  <g transform="translate(100,18)">
-    <rect x="0" y="0" width="110" height="34" rx="8" fill="#1a2233" stroke="#0a66c2" stroke-width="1" filter="url(#softglow)"/>
-    <image href="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" x="10" y="6" width="22" height="22"/>
-    <text x="40" y="22" font-family="Arial, sans-serif" font-size="13" fill="#c9d1d9" font-weight="500">LinkedIn</text>
-  </g>
-
-  <!-- X pill -->
-  <g transform="translate(230,18)">
-    <rect x="0" y="0" width="76" height="34" rx="8" fill="#1a1f2e" stroke="#4a4a4a" stroke-width="1" filter="url(#softglow)"/>
-    <image href="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" x="10" y="6" width="22" height="22"/>
-    <text x="40" y="22" font-family="Arial, sans-serif" font-size="13" fill="#c9d1d9" font-weight="500">X</text>
-  </g>
-
-  <!-- LeetCode pill -->
-  <g transform="translate(326,18)">
-    <rect x="0" y="0" width="110" height="34" rx="8" fill="#1a1f1a" stroke="#ffa116" stroke-width="1" filter="url(#softglow)"/>
-    <image href="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" x="10" y="6" width="22" height="22"/>
-    <text x="40" y="22" font-family="Arial, sans-serif" font-size="13" fill="#c9d1d9" font-weight="500">LeetCode</text>
-  </g>
-</svg>
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/neamatullah01" title="LinkedIn Profile">
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> <code>LinkedIn</code>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/01neamat" title="X Profile">
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"> <code>X</code>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/neamat01" title="LeetCode Profile">
+    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"> <code>LeetCode</code>
+  </a>
+</h5>
 
 ---
 
