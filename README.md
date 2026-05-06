@@ -6,19 +6,30 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/neamatullah01" title="LinkedIn Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> <code>LinkedIn</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/01neamat" title="X Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"> <code>X</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/neamat01" title="LeetCode Profile">
-    <img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"> <code>LeetCode</code>
-  </a>
-</h5>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/neamatullah01" title="LinkedIn Profile">
+          <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"><br>
+          <code>LinkedIn</code>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://x.com/01neamat" title="Twitter Profile">
+          <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"><br>
+          <code>Twitter</code>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/neamat01" title="LeetCode Profile">
+          <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"><br>
+          <code>LeetCode</code>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
