@@ -14,13 +14,14 @@
 
 ---
 
-## 🌟 About Me
-- 💻 Full-Stack Developer (React,Nextjs, Node.js, Express, PostgreSQL, MongoDB)  
-- ⚡ Interested in Competitive Programming  
-- 🌱 Currently Learning: `Next.js`, `TypeScript`, `Go`, `PostgreSQL`,`Prisma`, `MySQL`  
-- 📚 Languages: `JavaScript`, `Python`, `C`, `C++`  
-- 🌐 Frontend: `HTML`, `CSS`, `React`, `Tailwind CSS`, `DaisyUI`  
-- 🛠️ Backend: `Node.js`, `Express.js`, `MongoDB`, `Mongoose`  
+👋 Hi, I’m **Neamat Ullah**
+🎓 I have completed my **B.Sc. in Computer Science and Engineering**.
+🖥️ I’m currently working on **React.js, Next.js, Tailwind CSS, and shadcn/ui** for frontend development.
+🗄️ Using **Node.js, Express.js, Prisma, PostgreSQL, and MongoDB** for the backend.
+🛠️ I’m currently learning **Go, Docker, LLMs, and RAG**.
+⚡ I'm also passionate about **Competitive Programming (C, C++, Python)**.
+💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express, PostgreSQL, MongoDB)**.
+📫 Feel free to reach out to me via email: **[neamat.ullah.dev@gmail.com]**
 
 ---
 
