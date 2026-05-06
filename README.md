@@ -1,7 +1,16 @@
-# Hey 👋
-## I am Neamat Ullah
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeamatUllah.NeamatUllah">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;AI+Enthusiast)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Neamat+Ullah...;Full+Stack+Web+Developer;Problem+Solver;AI+Enthusiast">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn Profile"><img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a></code>
+  <code><a href="https://x.com/YOUR_X_USERNAME" title="X Profile"><img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"> X</a></code>
+  <code><a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" title="LeetCode Profile"><img width="22" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"> LeetCode</a></code>
+</h5>
 
 ---
 
