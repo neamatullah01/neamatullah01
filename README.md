@@ -63,9 +63,17 @@
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-%20%20LinkedIn%20%20%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamatullah01/)
-- [![X](https://img.shields.io/badge/-%20X%20(Twitter)%20-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/01neamat)
-- [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-000000?style=flat-square&logo=about.me&logoColor=white)](https://neamatullah01.app)
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/neamatullah01/">
+  <img src="https://img.shields.io/badge/-%20%20%20LinkedIn%20%20%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a><br>
+<a href="https://x.com/01neamat">
+  <img src="https://img.shields.io/badge/-%20X%20(Twitter)%20-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a><br>
+<a href="https://neamatullah01.vercel.app/">
+  <img src="https://img.shields.io/badge/-%20%20%20Portfolio%20%20%20-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
