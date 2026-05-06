@@ -14,14 +14,14 @@
 
 ---
 
-👋 Hi, I’m **Neamat Ullah**
-🎓 I have completed my **B.Sc. in Computer Science and Engineering**.
-🖥️ I’m currently working on **React.js, Next.js, Tailwind CSS, and shadcn/ui** for frontend development.
-🗄️ Using **Node.js, Express.js, Prisma, PostgreSQL, and MongoDB** for the backend.
-🛠️ I’m currently learning **Go, Docker, LLMs, and RAG**.
-⚡ I'm also passionate about **Competitive Programming (C, C++, Python)**.
-💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express, PostgreSQL, MongoDB)**.
-📫 Feel free to reach out to me via email: **[neamat.ullah.dev@gmail.com]**
+👋 Hi, I’m **Neamat Ullah**<br>
+🎓 I have completed my **B.Sc. in Computer Science and Engineering**.<br>
+🖥️ I’m currently working on **React.js, Next.js, Tailwind CSS, and shadcn/ui** for frontend development.<br>
+🗄️ Using **Node.js, Express.js, Prisma, PostgreSQL, and MongoDB** for the backend.<br>
+🛠️ I’m currently learning **Go, Docker, LLMs, and RAG**.<br>
+⚡ I'm also passionate about **Competitive Programming (C, C++, Python)**.<br>
+💬 Ask me about **Full-Stack Development (React, Next.js, Node, Express, PostgreSQL, MongoDB)**.<br>
+📫 Feel free to reach out to me via email: **[neamat.ullah.dev@gmail.com](mailto:neamat.ullah.dev@gmail.com)**
 
 ---
 
